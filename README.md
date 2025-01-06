@@ -75,29 +75,6 @@ A MERN stack-based educational and training programs event management system.
 #### 📂 Code Repository  
 [👉 GitHub Repo](https://github.com/Mahmudulhasan162/Educational-Event-Management-Website?tab=readme-ov-file)
 
-
-
-### 🛒 goriberDaraz  
-*A basic e-commerce practice project to explore JavaScript functionalities.*
-
-#### 🚀 Features  
-- Interactive product display.  
-- Basic cart functionality.  
-- User-friendly and responsive design.
-
-#### 🛠️ Tech Stack  
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-#### 🌐 Live Demo  
-[👉 Visit goriberDaraz](https://mahmudulhasan162.github.io/eCommerce-website-using-JavaScript/)
-
-#### 📂 Code Repository  
-[👉 GitHub Repo](https://github.com/Mahmudulhasan162/eCommerce-website-using-JavaScript)
-
-
-
 ### 📊 **Power BI Dashboards**  
 - Built interactive dashboards showcasing data insights and trends for better decision-making.  
 - [🔗 View Repository](#)  
@@ -114,8 +91,9 @@ A MERN stack-based educational and training programs event management system.
 
 ## 📈 Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazi-Mahmudul&show_icons=true&theme=radical)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Mahmudul&layout=compact&theme=radical)
 
 ---
 
