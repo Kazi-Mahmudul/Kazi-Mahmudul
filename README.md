@@ -10,7 +10,7 @@
 I’m a Computer Science and Engineering (CSE) undergraduate at **Varendra University**, with a passion for transforming raw data into actionable insights. With hands-on experience in manual testing, web development, and research, I aim to solve real-world problems through data-driven approaches and cutting-edge technologies.  
 
 ### 🎓 **Academic Highlights:**  
-- 🏆 **CGPA:** 3.94 / 4.00 (after 6th semester)  
+- 🏆 **CGPA:** 3.95 / 4.00 (after 7th semester)  
 - 📝 Preparing a **Data Science Thesis** as part of my final year project.  
 
 ---
