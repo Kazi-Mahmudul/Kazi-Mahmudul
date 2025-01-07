@@ -59,19 +59,13 @@ I’m a Computer Science and Engineering (CSE) undergraduate at **Varendra Unive
 ### 🌐 **MERN Stack Web Development Projects** 
 
 ### 🎓 eduEvents  
-A MERN stack-based educational and training programs event management system.  
-
-#### 🌟 Features  
-- Dynamic homepage with navbar, banner, About Us, services categories, and team section.  
-- Interactive service browsing with private routes for logged-in users.  
-- User authentication (email/password and Google sign-in).  
+A MERN stack-based educational and training programs event management system.   
 
 #### 🛠️ Tech Stack  
 - MongoDB, Express.js, React, Node.js  
 
 #### 🌐 Live Demo  
 [👉 Visit eduEvents](https://educational-events-aaeb4.web.app/)  
-
 #### 📂 Code Repository  
 [👉 GitHub Repo](https://github.com/Mahmudulhasan162/Educational-Event-Management-Website?tab=readme-ov-file)
 
