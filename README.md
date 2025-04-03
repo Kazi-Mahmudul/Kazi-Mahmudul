@@ -9,14 +9,20 @@
 
 ## 🖋️ About Me  
 
-I’m a Computer Science and Engineering (CSE) undergraduate at **Varendra University**, passionate about **Data Science and Analytics**. I love working with data, uncovering insights, and conducting research in Data Science.  
-
-- 🎓 **CGPA:** 3.95 / 4.00 (after 7th semester)  
-- 📝 Preparing a **Data Science Thesis** as part of my final year project.  
+I’m a Computer Science and Engineering (CSE) undergraduate, passionate about **Data Science and Analytics**. I love working with data, uncovering insights, and conducting research in Data Science.  
 
 ---
 
-## Skills  
+## 🎓 Education
+- Program: B.Sc. in Computer Science and Engineering
+- Varendra University
+- January 2022 - January 2026 (Expected)
+- Current CGPA: 3.95/4.00
+- Scholarships: Participant in a 90% merit scholarship every semester since the first semester.
+
+---
+
+## 🛠️ Skills  
 
 <table>
 <tr>
