@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kazi Mahmudul Hasan  
-**Data Analyst | CSE Undergrad | Tutor**  
+**Data Enthusiast | CSE Undergrad | Tutor**  
 
 <p align="center">
   <img src="https://s7.gifyu.com/images/SXu4e.gif" alt="Header Banner" width="500" height="300">
@@ -119,26 +119,6 @@ I’m a Computer Science and Engineering (CSE) undergraduate, passionate about *
 - **Python:** Basic, Intermidiate, Data Manipulation, Joining, and Visualization with Pandas  
 - **SQL and Databases:** Basic, Intermediate, Joining, Manipulation
 
----
-
-## 📈 Stats  
-
-<table>
-<tr>
-<td>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazi-Mahmudul&show_icons=true&theme=radical)  
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Mahmudul&layout=compact&theme=radical)  
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📫 Let's Connect  
 
