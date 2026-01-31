@@ -51,7 +51,7 @@ I’m a Computer Science and Engineering (CSE) graduate, skilled in Artificial I
 
 - 🌐 **[Portfolio Website](https://kazimahmudulhasan.vercel.app)** — Personal portfolio showcasing projects, skills, and growth.  
 
-- 🎓 **[eduEvents](https://educational-events-aaeb4.web.app/)** — MERN stack–based educational and training event management system.
+- 🎓 **[eduEvents]([https://educational-events-aaeb4.web.app/](https://github.com/Mahmudulhasan162/Educational-Event-Management-Website))** — MERN stack–based educational and training event management system.
 
 - 📉 **[Retention Analysis & Attrition Prediction](https://github.com/Kazi-Mahmudul/Employee-Retention-Analysis)** — Glassdoor review analytics for tech companies.
 - 📊 **[Customer Churn Analysis](https://app.powerbi.com/groups/cdc8112a-b0d8-49c3-b789-ef4dff6b07be/reports/b9d2587e-abba-45b8-80e3-c0fc13edc243/05267aa2a7169ca29de2?experience=power-bi)** — End-to-end churn analysis using SQL, Python, Machine Learning, and Power BI.
